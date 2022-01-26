@@ -1,0 +1,63 @@
+.box1{
+    display: inline-block;
+    background-color:rosybrown;
+    background-image: url(https://64.media.tumblr.com/4394f6a080fa8a6af207ac4358455008/tumblr_pam43c9ZO51uzwgsuo1_400.gifv);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 450px;
+    border-radius: 50px;
+    margin: 20px;
+
+}
+
+.box2{
+    display: inline-block;
+    background-color: rosybrown;
+    background-image: url(https://64.media.tumblr.com/63b4ce21bbdf45b140a2d58aceb6ee39/tumblr_omyadc5Njy1uzwgsuo1_400.gifv);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 300px;
+    height: 450px;
+    border-radius: 50px;
+    margin: 20px;
+}
+
+.box3{
+    display: inline-block;
+    background: aquamarine;
+    
+    background-image: url(https://64.media.tumblr.com/b5b5e178302fa43ae5cd34e821c41dca/tumblr_prp26hsqL11uzwgsuo1_400.gifv);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 450px;
+    border-radius: 50px;
+    margin: 20px;
+}
+
+div.photo{
+    text-align: center;
+    clip-path: circle();
+
+}
+
+div.boxes{
+    text-align: center;
+}
+
+div.hobbies{
+    text-align: left;
+}
+
+.bleh1{
+    overflow: auto;
+}
+
+.bleh2{
+    overflow: auto;
+}
+
+.bleh{
+    overflow: auto;
+}
